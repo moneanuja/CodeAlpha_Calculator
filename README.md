@@ -25,10 +25,10 @@ Press = to get the result.
 Press C to clear the screen.
 
 5. Future Enhancements:
-- Dark mode
-- Scientific calculator functions
-- Calculation history
-- Better animations
+ - Dark mode
+ - Scientific calculator functions
+ - Calculation history
+ - Better animations
 
 6. Output:
 The calculator provides accurate results for basic arithmetic calculations with an interactive user interface.
