@@ -1,4 +1,4 @@
-* Basic Calculator *
+** Basic Calculator **
 
 1. Project Overview:
 This project is a Basic Calculator built using HTML, CSS, and JavaScript.
